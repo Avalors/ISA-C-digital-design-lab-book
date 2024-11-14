@@ -1,0 +1,284 @@
+{
+  "main": {
+    "id": "93548224487c8fc5",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0694cb07f40d6c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c202ddfa2e2ed0da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "year 2 IAC lab book/Autumn/lab 1 - Counter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lab 1 - Counter"
+            }
+          },
+          {
+            "id": "f06e197d0d77cb3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "year 2 IAC lab book/Autumn/lab 2 - signal generator.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lab 2 - signal generator"
+            }
+          },
+          {
+            "id": "52ba042d709dfed3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "year 2 IAC lab book/Autumn/lab 3 - Finite state machines.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lab 3 - Finite state machines"
+            }
+          },
+          {
+            "id": "cefedded203ce040",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "year 2 IAC lab book/lab 1 prerequisites.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lab 1 prerequisites"
+            }
+          },
+          {
+            "id": "2d10f07dc5ef6a5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "year 2 IAC lab book/lab 2 prerequisites.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lab 2 prerequisites"
+            }
+          },
+          {
+            "id": "4ba5ba96c202a8de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "year 2 IAC lab book/Autumn/lab 3 - Finite state machines.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lab 3 - Finite state machines"
+            }
+          },
+          {
+            "id": "8e08017708c61af4",
+            "type": "leaf",
+            "state": {
+              "type": "video",
+              "state": {
+                "file": "WhatsApp Video 2024-10-25 at 22.33.28_683a1219.mp4"
+              },
+              "icon": "lucide-file",
+              "title": "WhatsApp Video 2024-10-25 at 22.33.28_683a1219"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d38a61cff06dcc6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e167a327a1d2a346",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "918fda480dc4011d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d1fa2fed0136da0a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "572775974d8821f9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 304.5
+  },
+  "right": {
+    "id": "52df9ee58dc1c10d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f0eeb4467cd0a3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5446f509c754457a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "year 2 IAC lab book/Autumn/lab 1 Counter.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for lab 1 Counter"
+            }
+          },
+          {
+            "id": "e29fef48867cddd0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "year 2 IAC lab book/Autumn/lab 1 Counter.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from lab 1 Counter"
+            }
+          },
+          {
+            "id": "7df440196920971e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "735c9fc54794773e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "year 2 IAC lab book/Autumn/lab 1 Counter.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of lab 1 Counter"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8e08017708c61af4",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "WhatsApp Video 2024-10-25 at 22.33.28_683a1219.mp4",
+    "WhatsApp Video 2024-10-25 at 20.08.19_83dbfb44.mp4",
+    "WhatsApp Video 2024-10-23 at 10.00.11_75b41dbc 1.mp4",
+    "WhatsApp Video 2024-10-23 at 10.00.11_75b41dbc.mp4",
+    "WhatsApp Video 2024-10-23 at 09.35.32_e9b839ca.mp4",
+    "WhatsApp Image 2024-11-11 at 10.59.37_6472d717.jpg",
+    "WhatsApp Image 2024-11-05 at 17.04.59_e84bc88e.jpg",
+    "WhatsApp Image 2024-11-05 at 17.04.32_ffd2a7f6.jpg",
+    "WhatsApp Image 2024-10-25 at 12.32.24_adc96478.jpg",
+    "WhatsApp Image 2024-11-04 at 18.51.25_a02e7338.jpg",
+    "WhatsApp Image 2024-10-22 at 15.02.30_34dd88dc.jpg",
+    "year 2 IAC lab book/Autumn/lab 4 - Reduced RISC-V.md",
+    "Pasted image 20241114205918.png",
+    "year 2 IAC lab book/Autumn/lab 3 - Finite state machines.md",
+    "Pasted image 20241114105813.png",
+    "year 2 IAC lab book/Autumn/lab 2 - signal generator.md",
+    "year 2 IAC lab book/Autumn/lab 1 - Counter.md",
+    "year 2 IAC lab book/lab 3 prerequisites.md",
+    "bspd improvements.md",
+    "GEEP master class meeting.md",
+    "Pasted image 20241112203556.png",
+    "year 2 IAC lab book/lab 1 prerequisites.md",
+    "year 2 IAC lab book/lab 2 prerequisites.md",
+    "WhatsApp Video 2024-11-12 at 13.57.17_b98476e3.mp4",
+    "Pasted image 20241112134651.png",
+    "WhatsApp Video 2024-11-12 at 13.20.25_c6b7d952.mp4",
+    "WhatsApp Video 2024-11-12 at 12.18.34_f3ef71e6.mp4",
+    "WhatsApp Video 2024-10-25 at 22.33.20_88a950b2.mp4",
+    "WhatsApp Video 2024-10-25 at 16.20.50_75d42982.mp4",
+    "create a link.md",
+    "year 2 IAC lab book/Autumn/lab 0 learning obsidian.md",
+    "Welcome.md"
+  ]
+}
